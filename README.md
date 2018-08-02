@@ -1,4 +1,4 @@
-tmux-net
+tmux-machine-env
 ===========
 
 This is a mini plugin for [TPM](https://github.com/tmux-plugins/tpm).
@@ -19,7 +19,7 @@ You can install the plugin via tpm by adding the following line in your
 `.tmux.conf` file:
 
 ```shell
-set -g @plugin 'svett/tmux-env'
+set -g @plugin 'svett/tmux-machine-env'
 ```
 
 [Detailed Installation Guidelines](https://github.com/tmux-plugins/tpm#installation)
